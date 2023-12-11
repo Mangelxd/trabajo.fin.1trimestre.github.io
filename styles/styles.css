@@ -19,7 +19,7 @@
 body {
     margin:0;
     display:inline-grid;
-    background-image: url('../image/fondo.jpg;')
+    background-image: url('../media/fondo.jpg;')
 }
 
 #hero-banner h2 {
